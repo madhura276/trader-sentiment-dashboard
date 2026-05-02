@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-👉 https://your-app-name.streamlit.app *(Update after deployment)*
+👉 https://trader-sentiment-dashboard-vfvqnctt2appevqbimfwav9.streamlit.app/
 
 ---
 
@@ -14,8 +14,9 @@ The project includes:
 - Visual insights and distribution analysis
 - Interactive dashboard for dynamic exploration
 
-Live dashboard link: https://your-app-name.streamlit.app
-GitHub repository: https://github.com/YOUR_USERNAME/trader-sentiment-dashboard
+Live dashboard link: https://trader-sentiment-dashboard-vfvqnctt2appevqbimfwav9.streamlit.app/
+
+GitHub repository: https://github.com/madhura276/trader-sentiment-dashboard
 
 # 🧩 Problem Statement
 
